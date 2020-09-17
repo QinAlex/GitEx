@@ -1,7 +1,6 @@
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
-
 class CalTest {
 
 	@Test
@@ -22,6 +21,6 @@ class CalTest {
 		assertEquals(1,a1.SubCal());
 	}
 	
-
+	// test it out!
 
 }
