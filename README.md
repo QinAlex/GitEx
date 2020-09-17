@@ -1,2 +1,2 @@
-# GitEx
-Individual Git Exercise
+# Tests
+Using Junit test to test out the calculation are all correct.
